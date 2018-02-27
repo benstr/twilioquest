@@ -1,0 +1,17 @@
+{
+  "name": "letsgetlocal",
+  "version": "1.0.0",
+  "description": "Twilio Quest Mission > Programmable SMS > Lets Get Local",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "find-up": "^2.1.0",
+    "twilio": "^3.11.3"
+  }
+}

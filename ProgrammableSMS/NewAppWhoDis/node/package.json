@@ -1,0 +1,19 @@
+{
+  "name": "newappwhodis",
+  "version": "1.0.0",
+  "description": "Twilio Quest Mission > Programmable SMS > New App Who Dis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.0",
+    "express": "^4.16.2",
+    "find-up": "^2.1.0",
+    "twilio": "^3.11.3"
+  }
+}
